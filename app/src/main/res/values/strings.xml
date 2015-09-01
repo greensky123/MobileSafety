@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">手机安全卫士</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="url_version">http://localhost/urlinfo.json</string>
+</resources>
